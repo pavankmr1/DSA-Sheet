@@ -8,3 +8,5 @@ Q1(1) => Set Matrix Zeroes (Time Complexity = O(M X N), Space Complexity = O(1))
 Q2 => Pascals triangle  (Time Complexity = O(2^N), Space Complexity = O(N))
 Q2(1) => Pascals triangle  (Time Complexity = O(N^2), Space Complexity = O(N^2))
 Q4 => kadan's Algorithm (Brute Forcce Method) (Time Complexity = O(N^3), Space Complexity = O(1))
+Q4(1) => kadan's Algorithm (Better Method) (Time Complexity = O(N^2), Space Complexity = O(1))
+
