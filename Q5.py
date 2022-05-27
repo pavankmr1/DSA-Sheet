@@ -26,7 +26,7 @@ def takeInput():
     return arr,n
 
 def printAnswer(arr,n):
-    for i in range n:
+    for i in range(n):
         print(arr[i],end=" ")
     print()
 
