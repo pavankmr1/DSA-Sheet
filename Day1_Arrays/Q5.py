@@ -3,7 +3,7 @@ setrecursionlimit(10**7)
 def sort012(arr,n):
 
     #STORING COUNT OF 0 1 2
-    count=[0 0 0]
+    count=[0,0,0]
 
     for i in range (n):
         count[arr[i]] +=1
