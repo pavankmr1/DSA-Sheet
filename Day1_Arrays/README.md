@@ -14,6 +14,6 @@ DAY-1 ARRAYS
     Q4(3) => kadan's Algorithm (Alternativve Optimised Approach) (Time Complexity = O(N), Space Complexity = O(1))
     Q5    => Sort012 (Frequency method) (Time Complexity = O(N), Space Complexity = O(1))
     Q6    => Best Time to buy and sell stock(Brute Force)(Time Complexity = O(N^2), Space Complexity = O(1))
-    Q6(1) => Best Time to buy and sell stock(Optimised)(Time Complexity = O(N), Space Complexity = O(1))
+    Q6(1) => Best Time to buy and sell stock(Optimised)(Time Complexity = O(N), Space Complexity = O(1) )
 
 
