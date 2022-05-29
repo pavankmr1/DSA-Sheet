@@ -3,3 +3,4 @@ DAY-2 ARRAYS
     Q1(1) => Set Matrix Zeroes (Time Complexity = O(M X N), Space Complexity = O(1))
     Q2    => Merge Intervals  (Time Complexity = O(N * log(N)), Space Complexity = O(N))
     Q3    => Merge Two Sorted ARRAYS  (Time Complexity =O((M+N) * log(M+N)) , Space Complexity = O(1))
+    Q3(1) => Merge Two Sorted ARRAYS  (Time Complexity =O((M+N)) , Space Complexity = O(1))
