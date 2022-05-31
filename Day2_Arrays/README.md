@@ -8,7 +8,9 @@ DAY-2 ARRAYS
     Q4(1)    => Find Duplicates (Time Complexity =)  (Time Complexity =O(N) , Space Complexity = O(N))
     Q4(2)    => Find Duplicates (Time Complexity =)  (Time Complexity =O(N) , Space Complexity = O(1))
     Q5       => Missing & Repeating elements (Time Complexity =O(N*N) , Space Complexity = O(1))
-    Q5(1)     => Missing & Repeating elements (Time Complexity =O(N*log(N)) , Space Complexity = O(1))
-    Q5       => Missing & Repeating elements (Time Complexity =O(N*N) , Space Complexity = O(1))
+    Q5(1)    => Missing & Repeating elements (Time Complexity =O(N*log(N)) , Space Complexity = O(1))
+    Q5(2)    => Missing & Repeating elements (Time Complexity =O(N) , Space Complexity = O(N))
+    Q5(3)    => Missing & Repeating elements (Time Complexity =O(N) , Space Complexity = O(1))
+
 
 
