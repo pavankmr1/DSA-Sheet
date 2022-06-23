@@ -1,7 +1,7 @@
 def countPaths(i,j,n,m,dp):
     if i == (n-1) and j== (m-1): return 1
     if i>=n or j>=m: return 0
-    if(dp[i][j]!=-1): return dp[i][j]
+    # if(dp[i][j]!=-1): return dp[i][j]
     else:
         dp[i][j] = countPaths(i+1,j,n,m,dp)+countPaths(i,j+1,n,m,dp)
         return dp[i][j] 
