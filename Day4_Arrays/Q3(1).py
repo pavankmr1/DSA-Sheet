@@ -18,4 +18,4 @@ class Solution:
         return max(current_streak,longest_Streak)
 
 a = Solution()
-print(a.longestConsecutive([100,4,200,1,3,2]))
+print(a.longest_Streak([100,4,200,1,3,2]))
