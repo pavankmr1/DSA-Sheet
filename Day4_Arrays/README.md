@@ -14,3 +14,5 @@ DAY-4 ARRAYS
     Q3(2) => Longest Consecutive Sequence (hash Set)(Time Complexity = O(N), Space Complexity = O(N))
 
     Q4 => Longest Subarray with Zero Sum (Brute Force)(Time Complexity = O(N^2), Space Complexity = O(1))
+
+    Q4(1) => Longest Subarray with zero Sum (Hash Map)(Time Complexity = O(N), Space Complexity = O(N)
