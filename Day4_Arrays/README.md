@@ -9,4 +9,6 @@ DAY-4 ARRAYS
 
     Q3      => Longest Consecutive Sequence (Brute Force)(Time Complexity = O(N^3), Space Complexity = O(1))
 
-    Q3(1) => Longest Consecutive Sequence (
+    Q3(1) => Longest Consecutive Sequence (sorting)(Time Complexity = O(N^logN), Space Complexity = O(1))
+
+    Q3(2) => Longest Consecutive Sequence (hash Set)(Time Complexity = O(N), Space Complexity = O(N))
