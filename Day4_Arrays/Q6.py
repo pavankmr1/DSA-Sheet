@@ -5,6 +5,6 @@ def areDistinct(str,i,j):
     # Note : Default values in visited are false
     visited = [0] * (26) #if we consider the dtring contains only alphabets ,since there are 26 so *26
 
-    for k in range(len(str)):
-        
+   # for k in range(len(str)):
+
 
