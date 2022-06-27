@@ -18,3 +18,5 @@ DAY-4 ARRAYS
     Q4(1)    => Longest Subarray with zero Sum (Hash Map)(Time Complexity = O(N), Space Complexity = O(N)
 
     Q5       => Subarrays with given XOR(Brute Force)(Time Complexity = O(N^2), Space Complexity = O(1))
+
+    Q5(1)    => Subarrays with given XOR(Optimized approach)(Time Complexity = O(N), Space Complexity = O(N)  )
