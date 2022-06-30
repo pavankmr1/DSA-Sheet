@@ -9,4 +9,6 @@ DAY-4 Linked List
 
     Q2(1)    => Middle of Linked List (Fast and Slow Pointer)(Time Complexity =O(N), Space Complexity = O(1))
 
-    Q3      => Merge Two sorted lists (Time Complexity = O(N+M), Space Complexity = O(N+M))
+    Q3      => Merge Two sorted lists(Recursive) (Time Complexity = O(N+M), Space Complexity = O(N+M))
+
+    Q3(1)   => Merge Two sorted lists(Iterative) (Time Complexity = O(N+M), Space Complexity = O(1))
