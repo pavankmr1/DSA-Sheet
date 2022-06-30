@@ -22,7 +22,7 @@ def sort(first,second):
     while(next1 != None and next2 != None):
         if((cur2.data) >=(cur1.data) and (cur2.data)<=(next1.data) ):
             next2 = cur2.next
-            cur1.nexy = cur2
+            cur1.next = cur2
             cur2.next = next1
 
             cur1 = cur2
