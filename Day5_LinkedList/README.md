@@ -17,3 +17,4 @@ DAY-4 Linked List
 
     Q4(1)   => Delete Kth Node from the end(Finding Length of the lists)(Time Complexity = O(N) + O(N) ~ O(N) ,space Complexity = O(1))
      
+     Q4(2)  => Delete Kth Node from the end(Using slow and fast pointer)(Time Complexity = O(N), Space Complexity = O(1))
