@@ -12,3 +12,8 @@ DAY-4 Linked List
     Q3      => Merge Two sorted lists(Recursive) (Time Complexity = O(N+M), Space Complexity = O(N+M))
 
     Q3(1)   => Merge Two sorted lists(Iterative) (Time Complexity = O(N+M), Space Complexity = O(1))
+
+    Q4      =>  Delete Kth Node from the end(Using Lists)(Time Complexity = O(N), Space Complexity = O(N))
+
+    Q4(1)   => Delete Kth Node from the end(Finding Length of the lists)(Time Complexity = O(N) + O(N) ~ O(N) ,space Complexity = O(1))
+     
