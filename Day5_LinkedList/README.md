@@ -23,4 +23,4 @@ DAY-4 Linked List
 
      Q5(1)  => Add two numbers as linked list(Iterative Approah)(Time Complexity = O(M+N), Space Complexity = O(Max(M,N))
 
-     
+     Q5(2)  => Add two numbers as linked list(Space Optimised  Approah)(Time Complexity = O(M+N), Space Complexity = O(1))
