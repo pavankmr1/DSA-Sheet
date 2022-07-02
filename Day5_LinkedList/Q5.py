@@ -8,7 +8,7 @@ class Node:
         self.next = None
     
     def __del__(self):
-        if(slef.next):
+        if(self.next):
             del self.next
 
 def addTwoNumbersHelper(node1, node2,carry):
