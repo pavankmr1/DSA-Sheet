@@ -18,3 +18,9 @@ DAY-4 Linked List
     Q4(1)   => Delete Kth Node from the end(Finding Length of the lists)(Time Complexity = O(N) + O(N) ~ O(N) ,space Complexity = O(1))
      
      Q4(2)  => Delete Kth Node from the end(Using slow and fast pointer)(Time Complexity = O(N), Space Complexity = O(1))
+
+     Q5     =>  Add Two numbers as linked list( Recursion)(Time Complexity = O(M+N), Space Complexity = O(Max(M,N))
+
+     Q5(1)  => Add two numbers as linked list(Iterative Approah)(Time Complexity = O(M+N), Space Complexity = O(Max(M,N))
+
+     
