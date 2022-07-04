@@ -1,5 +1,13 @@
-from re import L
+
 from sys import stdin
+
+# Parallel Traversal Approach
+# Calculate the length of both the lists, say len1 and len2
+# Get the absolute difference of the lengths, diff = |len1 – len2|
+# Now traverse the long list from the first node till ‘diff’ nodes so that from there onwards both the lists have equal number of nodes
+# Then traverse both the lists in parallel and check whether a common node is reached (Note that getting a common node is done by comparing the address of the nodes, not the data)
+# If yes, return that node’s data
+# If no, return -1
 
 class Node:
     def __init__(self,data):
