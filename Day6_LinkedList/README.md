@@ -10,3 +10,5 @@ DAY-6 Linked List
     Q2(1)    => Loop Detection in a singly linked list ( Hashing Approach) (Time Complexity = O(N), Space Complexity = O(N))
 
     Q2(2)    => Loop Detection in a singly linked list (Slow and fast pointer approach) (Time Complexity = O(N), Space Complexity = O(1))
+
+    Q3       => Reverse nodes in k-Group (Iterative Approach) (Time Complexity = O(L), Space Complexity = O(1))
