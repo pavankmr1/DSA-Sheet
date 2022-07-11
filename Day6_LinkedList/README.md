@@ -12,3 +12,12 @@ DAY-6 Linked List
     Q2(2)    => Loop Detection in a singly linked list (Slow and fast pointer approach) (Time Complexity = O(N), Space Complexity = O(1))
 
     Q3       => Reverse nodes in k-Group (Iterative Approach) (Time Complexity = O(L), Space Complexity = O(1))
+
+    Q4       => Check the linked list is palindrome or not ( Using Stack)(Time Complexity = O(N), Space Complexity = O(N))
+
+    Q4(1)    => Check the linked list is palindrome or not ( Clone Linked List ) (Time Complexity = O(N), Space Complexity = O(N))
+
+    Q4(2)    => Check the linked list is palindrome or not (Recursion) (Time Complexity = O(N), Space Complexity = O(N))  
+
+    Q4(3)    => Check the linked list is palindrome or not ( Reversing Second Half)(Time Complexity = O(N)  , Space Complexity = O(1))
+    
