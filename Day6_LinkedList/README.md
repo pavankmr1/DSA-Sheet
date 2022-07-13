@@ -20,4 +20,11 @@ DAY-6 Linked List
     Q4(2)    => Check the linked list is palindrome or not (Recursion) (Time Complexity = O(N), Space Complexity = O(N))  
 
     Q4(3)    => Check the linked list is palindrome or not ( Reversing Second Half)(Time Complexity = O(N)  , Space Complexity = O(1))
+
+    Q5       => Linked List cycle II (Outer and inner loop)(Time Complexity = O(N^2), Space Complexity = O(1))
+
+    Q5(1)      => Linked List cycle II (Lookup Table)(Time Complexity = O(N), Space Complexity = O(N))
+
+    Q5(2)      => Linked List cycle II (Slow And Fast Pointer)(Time Complexity = O(N), Space Complexity = O(1))
+
     
