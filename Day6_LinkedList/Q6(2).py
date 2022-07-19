@@ -38,4 +38,18 @@ def flattenLinkedList(head):
     head = merge(head, head.next)
 
     return head
-    
+
+#     Time Complexity
+# O(N * K), where ‘N’ denotes the size of the linked list and ‘K’ is the average number of child nodes for each of the N nodes. 
+
+ 
+
+# Since, every next-node and every child node in the linkedlist is traversed only once, the final complexity would be O(N * K).
+
+# Space Complexity
+# O(N), where ‘N’ denotes the size of the linked list.
+
+ 
+
+# Since for every call on a horizontal node each child sublist is called so the stack in recursion will always at most have N stacks .
+

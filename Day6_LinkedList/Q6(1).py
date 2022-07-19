@@ -54,3 +54,19 @@ def flattenLinkedList(head):
     return result
 
 
+
+
+# Time Complexity
+# O( log(N) * (N * K)), where 'N’ denotes the size of the linked list and ‘K’ is the average number of child nodes for each of the N nodes.
+
+ 
+
+# Since, every node in the linkedlist is traversed once and log(N) is the time taken to min-heapify the queue so the total complexity will be O(N * log(N)) + O(((N * K) - N) * log(N)) = O( log(N) * (N * K)) 
+
+# Space Complexity
+# O(N), where ‘N’ denotes the size of the linked list 
+
+ 
+
+# Since we are using a priority queue to store the top horizontal nodes and at any instant heap will not contain more than N nodes..
+
