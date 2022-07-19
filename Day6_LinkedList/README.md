@@ -27,4 +27,8 @@ DAY-6 Linked List
 
     Q5(2)      => Linked List cycle II (Slow And Fast Pointer)(Time Complexity = O(N), Space Complexity = O(1))
 
-    
+    Q6         => Flatten a Linked List ( Brute force) (Time Complexity = O((N * K) * (log(N * K))), Space Complexity = O(N*k))
+
+    Q6(1)      => Flatten a Linked List (Using Priority Queue) (Time Complexity = O( log(N) * (N * K)), Space Complexity = O(N))
+
+    Q6(2)      => Flatten a Linked List (Using Priority Queue) (Time Complexity = O(N * K)), Space Complexity = O(N))
