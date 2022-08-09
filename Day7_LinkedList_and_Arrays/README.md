@@ -9,4 +9,6 @@ DAY-6 Linked List & Arrays
 
     Q2(2)      => Copy Linked list with random Pointer(optimized iterative approach) (Time Complexity = O(N), Space Complexity = O(1))
 
-    
+    Q3       => 3 sum (Brute Force) (Time Complexity = O(N^3), Space Complexity = O(1))
+
+    Q3(1)    => 3 sum (two pointer appoach) (Time Complexity = O(N^2), Space Complexity = O(1)
