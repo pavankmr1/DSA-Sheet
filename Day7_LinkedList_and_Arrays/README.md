@@ -12,3 +12,10 @@ DAY-6 Linked List & Arrays
     Q3       => 3 sum (Brute Force) (Time Complexity = O(N^3), Space Complexity = O(1))
 
     Q3(1)    => 3 sum (two pointer appoach) (Time Complexity = O(N^2), Space Complexity = O(1)
+
+    Q4       => Trapping Rain Water (Brute Force) (Time Complexity = O(N^2), Space Complexity = O(1))
+
+    Q4(1)    => Trapping  Rain Water (Left and Right Array Approah) (Time Complexity = O(N) , Space Complexity = O(1))
+
+    Q4(2)    => Trapping????????????????
+    
