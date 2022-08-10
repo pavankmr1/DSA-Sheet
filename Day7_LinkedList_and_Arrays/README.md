@@ -18,4 +18,7 @@ DAY-6 Linked List & Arrays
     Q4(1)    => Trapping  Rain Water (Left and Right Array Approah) (Time Complexity = O(N) , Space Complexity = O(1))
 
     Q4(2)    => Trapping????????????????
+
+    Q5       => Remove duplicates from sorted Array (Time Complexity = O(N), Space Complexity = O(1))
+
     
