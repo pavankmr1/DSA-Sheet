@@ -21,4 +21,4 @@ DAY-6 Linked List & Arrays
 
     Q5       => Remove duplicates from sorted Array (Time Complexity = O(N), Space Complexity = O(1))
 
-    
+    Q6       => Max Consecutive 1's (Time Complexity = O(N), Space Complexity = O(1))
