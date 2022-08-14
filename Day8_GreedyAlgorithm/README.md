@@ -11,3 +11,5 @@ DAY-8  Greedy Algorithms
     Q5       => Find minimum number of coins(Greedy approach)(Time Complexity = O(N), Space Complexity = O(1))
 
     Q5(1)    => Find minimum number of coins(Optimised Greedy approach)(Time Complexity = O(N), Space Complexity = O(1))
+
+    Q6       => Maximum Activities(Time Complexity = O(N*logN), Space Complexity = O(1))
