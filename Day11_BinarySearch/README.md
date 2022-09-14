@@ -8,6 +8,6 @@ DAY-11 Binary Search
 
     Q3(1)    => Unique Element (Hashing) (Time Complexity = O(N)), Space Complexity = O(N))
 
-    
+    Q3(2)    => Unique Element (Bit Manipulation) (Time Complexity = O(N)), Space Complexity = O(1))
 
 
