@@ -11,3 +11,6 @@ DAY-11 Binary Search
     Q3(2)    => Unique Element (Bit Manipulation) (Time Complexity = O(N)), Space Complexity = O(1))
 
     Q3(3)   => Unique Element (Binary Search) (Time Complexity = O(log(N)), Space Complexity = O(1))
+
+    Q4      => Search in sorted rotated array (Brute Force) (Time Complexity = O(N)), Space Complexity = O(1))
+    
