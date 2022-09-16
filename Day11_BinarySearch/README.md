@@ -15,3 +15,7 @@ DAY-11 Binary Search
     Q4      => Search in sorted rotated array (Brute Force) (Time Complexity = O(N)), Space Complexity = O(1))
 
     Q4      => Search  in sorted rotated array (Binary Search) (Time Complexity = O(log(N)), Space Complexity = O(1))
+
+    Q5      => Median of two sorted Arrays (Brute force) (Time Complexity = O((N + M) * log(N + M))), Space Complexity = O(N+M))
+
+    
