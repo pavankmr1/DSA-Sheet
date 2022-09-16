@@ -18,4 +18,6 @@ DAY-11 Binary Search
 
     Q5      => Median of two sorted Arrays (Brute force) (Time Complexity = O((N + M) * log(N + M))), Space Complexity = O(N+M))
 
-    
+    Q5(1)   => Median of two sorted Arrays (Two Pointer approach) (Time Complexity = O(N + M), Space Complexity = O(1))
+
+    Q5(2)   => Median of two sorted Arrays (Binary Search) (Time Complexity = O(min(logN, logM)), Space Complexity = O(1))   
