@@ -27,3 +27,7 @@ DAY-11 Binary Search
     Q5(3)   => Median of two sorted Arrays (Binary Search) (Time Complexity = O(min(logN,logM)), Space Complexity = O(1)) ????????????????????????????
 
     Q6(1)   => Kth element of two sorted Arrays(Brute force) (Time Complexity = O(N + M), Space Complexity = O(M+N))
+
+    Q6(2)   => Kth element of two sorted Arrays (Two Pointer approach) (Time Complexity = O(k), Space Complexity = O(1))
+
+    Q6(3))   => Kth element of two sorted Arrays (Binary Search) (Time Complexity = O(log(k)), Space Complexity = Olog(k))
