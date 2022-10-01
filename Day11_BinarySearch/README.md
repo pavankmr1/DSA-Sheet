@@ -30,4 +30,4 @@ DAY-11 Binary Search
 
     Q6(2)   => Kth element of two sorted Arrays (Two Pointer approach) (Time Complexity = O(k), Space Complexity = O(1))
 
-    Q6(3))   => Kth element of two sorted Arrays (Binary Search) (Time Complexity = O(log(k)), Space Complexity = Olog(k))
+    Q6(3))   => Kth element of two sorted Arrays (Binary Search) (Time Complexity = O(log(k)), Space Complexity = Olog(k)) ?????????????????
